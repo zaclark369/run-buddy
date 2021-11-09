@@ -12,3 +12,5 @@ https://zaclark369.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Zac Clark
+
+### ©️2019 Run Buddy, Inc
